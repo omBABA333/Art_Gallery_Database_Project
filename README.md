@@ -1,2 +1,2 @@
-# DBMS
-DBMS_Project_B185_B184
+# DBMS Project
+DBMS group project which contains Art Gallery Database:>
